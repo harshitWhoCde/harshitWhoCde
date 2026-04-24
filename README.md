@@ -4,7 +4,7 @@
 <td width="50%">
 
 # 💫 Hi 👋, I'm Harshit Ghawale  
-### 🚀 MERN Stack Developer  
+### 🚀 MERN Stack Developer   
 
 📩 **Email:** harshitghawale85@gmail.com  
 
@@ -29,7 +29,7 @@
 
 ---
 
-## 🌐 Connect With Me
+## 🌐 Connect With  Me
 [![Discord](https://img.shields.io/badge/Discord-%237289DA.svg?logo=discord&logoColor=white)](https://discord.gg/AgaPaHNw)
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/o0oharshito0o)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/harshitwhocode)
